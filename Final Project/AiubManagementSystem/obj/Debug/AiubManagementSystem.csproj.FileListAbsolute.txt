@@ -1,0 +1,13 @@
+C:\Users\akib5\source\repos\AiubManagementSystem\bin\Debug\AiubManagementSystem.exe.config
+C:\Users\akib5\source\repos\AiubManagementSystem\bin\Debug\AiubManagementSystem.exe
+C:\Users\akib5\source\repos\AiubManagementSystem\bin\Debug\AiubManagementSystem.pdb
+C:\Users\akib5\source\repos\AiubManagementSystem\obj\Debug\AiubManagementSystem.csproj.AssemblyReference.cache
+C:\Users\akib5\source\repos\AiubManagementSystem\obj\Debug\AiubManagementSystem.Form1.resources
+C:\Users\akib5\source\repos\AiubManagementSystem\obj\Debug\AiubManagementSystem.Properties.Resources.resources
+C:\Users\akib5\source\repos\AiubManagementSystem\obj\Debug\AiubManagementSystem.csproj.GenerateResource.cache
+C:\Users\akib5\source\repos\AiubManagementSystem\obj\Debug\AiubManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\akib5\source\repos\AiubManagementSystem\obj\Debug\AiubManagementSystem.exe
+C:\Users\akib5\source\repos\AiubManagementSystem\obj\Debug\AiubManagementSystem.pdb
+C:\Users\akib5\source\repos\AiubManagementSystem\obj\Debug\AiubManagementSystem.Login.resources
+C:\Users\akib5\source\repos\AiubManagementSystem\obj\Debug\AiubManagementSystem.MainForm.resources
+C:\Users\akib5\source\repos\AiubManagementSystem\obj\Debug\AiubManagementSystem.Student.resources
